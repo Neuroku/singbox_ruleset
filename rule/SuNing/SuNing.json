@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "sndlj.cn",
+        "suninghotel.com",
+        "suningcdn.net",
+        "suninggslb.cn",
+        "cnsuning.com",
+        "suningdns.com",
+        "laox.cn",
+        "suningcloud.com",
+        "suningdns.cn",
+        "suning.com",
+        "yifubao.com",
+        "suningmail.com",
+        "suningyunyou.com",
+        "10035.com.cn",
+        "cloudytrace.org",
+        "suning.cn",
+        "cloudytrace.com",
+        "wuliuyun.com",
+        "redbaby.com.cn",
+        "chinadzfp.com",
+        "cloudytrace.cn",
+        "suningcdn.com",
+        "suninggslb.net",
+        "suningholdings.com",
+        "suningestate.com",
+        "suningcdn.cn",
+        "suningdns.net",
+        "suningyunyou.cn",
+        "pinjiago.cn",
+        "pinjiago.com",
+        "snqrc.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

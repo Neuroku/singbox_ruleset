@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "tictoc.video",
+        "bloombergapps.com",
+        "bmia.org",
+        "neweconomyforum.com",
+        "bnef.com",
+        "bloomberg.com.br",
+        "bloomberg.fm",
+        "bloombergbeta.com",
+        "blpprofessional.com",
+        "bwbx.io",
+        "bloomberg.tv",
+        "citylab.com",
+        "quicktake.video",
+        "techatbloomberg.com",
+        "businessweekmag.com",
+        "businessweek.com",
+        "bloomberg.com",
+        "bloomberg.co.kr",
+        "bloombergarcade.com",
+        "newenergyfinance.com",
+        "gotraffic.net",
+        "londonmithraeum.com"
+      ]
+    }
+  ],
+  "version": 2
+}
