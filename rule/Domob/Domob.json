@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dmrtb.cn",
+        "dmvideo.mobi",
+        "modh.cn",
+        "domobcdn.com",
+        "modh.com.cn",
+        "moxz.cn",
+        "dmrtb.com",
+        "domobnetwork.com",
+        "duomeng.net",
+        "ugdesk.cn",
+        "dmvideo.net",
+        "moxz.net",
+        "ugdesk.com",
+        "domob.cn",
+        "domob.com.cn",
+        "domobcdn.cn",
+        "domob-inc.com",
+        "domob-inc.cn",
+        "domob.org",
+        "duomeng.org",
+        "dmvideo.org",
+        "duomeng.cn",
+        "dmvideo.cn",
+        "dmrta.com",
+        "dmyouxi.com",
+        "dmaow.com"
+      ]
+    }
+  ],
+  "version": 2
+}
