@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "aqara.com.cn",
+        "aqara.cn",
+        "lumiunited.com",
+        "lumiunited.cn",
+        "aqara.com",
+        "lumiunited.com.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
