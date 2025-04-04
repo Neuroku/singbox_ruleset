@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "wmff.warnermediacdn.com"
+      ],
+      "domain_suffix": [
+        "hbomax.com",
+        "hbomaxdash.s.llnwi.net",
+        "hbonow.com",
+        "max.com",
+        "maxgo.com",
+        "h264.io",
+        "hbomaxcdn.com",
+        "cinemax.com",
+        "discomax.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.hbo.hbonow"
+      ]
+    }
+  ],
+  "version": 2
+}

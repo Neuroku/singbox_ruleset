@@ -1,0 +1,36 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "xiaodaijl.com",
+        "imageplusplus.cn",
+        "yuesuoping.com",
+        "megvii-inc.com",
+        "visionhacker.com",
+        "faceplusplus.com.cn",
+        "xcyuntech.cn",
+        "imageplusplus.net",
+        "imageplusplus.com.cn",
+        "xlsdn.com",
+        "face-plus-plus.com",
+        "kaolacam.net",
+        "datafun.vip",
+        "faceid.com",
+        "faceplusplus.com",
+        "brainplusplus.com.cn",
+        "kuangshitech.com",
+        "xlsdn.cn",
+        "koalacam.net",
+        "imageplusplus.com",
+        "brainpp.cn",
+        "megvii.com",
+        "megcup.com"
+      ],
+      "ip_cidr": [
+        "114.98.177.196/32",
+        "114.98.177.194/31"
+      ]
+    }
+  ],
+  "version": 2
+}

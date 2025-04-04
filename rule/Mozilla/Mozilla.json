@@ -1,0 +1,30 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mozilla.com",
+        "extensionworkshop.com",
+        "mozilla.net",
+        "thunderbird.net",
+        "bugzilla.org",
+        "media.prod.mdn.mozit.cloud",
+        "mozilla.org",
+        "firefoxusercontent.com",
+        "pocket-image-cache.com",
+        "seamonkey-project.org",
+        "crates.io",
+        "mdn.mozillademos.org",
+        "firefox.com",
+        "rustup.rs",
+        "mofoprod.net",
+        "sentry.prod.mozaws.net",
+        "docs.rs",
+        "rust-lang.org",
+        "mozilla.community",
+        "firefox.com.cn",
+        "getpocket.com"
+      ]
+    }
+  ],
+  "version": 2
+}
