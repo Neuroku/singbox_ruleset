@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ku6vms.com",
+        "ku6cdn.com",
+        "ku6.com",
+        "juchang.com.cn",
+        "ku6img.com",
+        "feedsp.com",
+        "weiguan.com",
+        "ku6.com.cn",
+        "ku6.cn",
+        "ku6.net",
+        "juchang.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

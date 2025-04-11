@@ -1,0 +1,52 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "grc-oa.org.cn",
+        "infotech.ac.cn",
+        "modernization.ac.cn",
+        "lis.ac.cn",
+        "ipres2020.cn",
+        "agklab.cn",
+        "chinaxiv.cn",
+        "las.ac.cn",
+        "iauthor.cn",
+        "sciencechina.org.cn",
+        "chinaxiv.com",
+        "dataintelligence.ac.cn",
+        "sciencechina.cn",
+        "csci.net.cn",
+        "hitech.ac.cn",
+        "openinnovation.cn",
+        "stmjsociety.com",
+        "csdl.ac.cn",
+        "berlin8.org",
+        "cnegov.com",
+        "iauthor.ac.cn",
+        "sciencefocus.ac.cn",
+        "progchem.ac.cn",
+        "stpaper.cn",
+        "openinnoviation.cn",
+        "biotech.ac.cn",
+        "cjstp.cn",
+        "csci.ac.cn",
+        "csdl.org.cn",
+        "lndx.ac.cn",
+        "nsl.ac.cn",
+        "cnegov.org",
+        "chinaxiv.net",
+        "sciencechina.net.cn",
+        "jdis.org",
+        "open-search.org",
+        "museum.ac.cn",
+        "sciencechina.ac.cn",
+        "acas.ac.cn",
+        "chinaxiv.org",
+        "ndpp.ac.cn",
+        "cscd.ac.cn",
+        "csdl.net.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

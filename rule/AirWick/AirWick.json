@@ -1,0 +1,49 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "airwick.dk",
+        "airwick.ie",
+        "airwick.at",
+        "airwick.co.nz",
+        "airwick.es",
+        "airwick.jp",
+        "airwick.hu",
+        "airwick.com.br",
+        "airwick.si",
+        "airwick.tv",
+        "airwick.pl",
+        "airwick.it",
+        "airwick.co.za",
+        "airwick.se",
+        "airwick.co.in",
+        "airwickarabia.com",
+        "airwick.com.cn",
+        "airwick.co.uk",
+        "airwick.fr",
+        "airwick.us",
+        "airwick.com.tr",
+        "vipoo.es",
+        "airwick.ca",
+        "airwick.pt",
+        "airwick.ru",
+        "airwick.cl",
+        "airwick.fi",
+        "airwick.cz",
+        "airwick.no",
+        "airwick.ro",
+        "airwick.sk",
+        "airwick.nl",
+        "airwick.com",
+        "airwick.net",
+        "airwick.be",
+        "airwick.de",
+        "airwick.hr",
+        "airwick.ch",
+        "airwick.com.au",
+        "airwick.com.mx"
+      ]
+    }
+  ],
+  "version": 2
+}
