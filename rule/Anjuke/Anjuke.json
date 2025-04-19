@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "aifang.com",
+        "jikejia.cn",
+        "anjuke.cn",
+        "anjukestatic.com",
+        "aifcdn.com",
+        "ajkinclude.com",
+        "anjuke.com"
+      ]
+    }
+  ],
+  "version": 2
+}
