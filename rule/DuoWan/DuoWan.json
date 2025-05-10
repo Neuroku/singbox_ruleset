@@ -1,0 +1,36 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "yygamedev.com",
+        "c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net",
+        "5253.com",
+        "joyyinc.com",
+        "joyyued.com",
+        "duowan.cn",
+        "yyclouds.com",
+        "blogchina.org",
+        "vooedit.com",
+        "hiido.net",
+        "huanju.net",
+        "yy.com.cn",
+        "bigda.com",
+        "chinaduo.com",
+        "duowan.com",
+        "hiido.cn",
+        "bcshipgo.com",
+        "hiido.com",
+        "huanju.cn",
+        "dwstatic.com",
+        "joyy.com",
+        "zhiniu8.com",
+        "huanjuyun.com",
+        "pikoplay.com",
+        "yy.com",
+        "yystatic.com",
+        "duowan.com.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
