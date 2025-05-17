@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "phoenixcenter.cn",
+        "ifengimg.com",
+        "ifengweekly.com",
+        "fengcx.com",
+        "phoenixtv.com",
+        "fengzhibo.com.cn",
+        "fengedu.com",
+        "phoenixtv.com.cn",
+        "ifeng.com"
+      ]
+    }
+  ],
+  "version": 2
+}
