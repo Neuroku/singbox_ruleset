@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "discordpartygames.com",
+        "discord.gift",
+        "discord.gg",
+        "discordapp.com",
+        "discordapp.page.link",
+        "discordstatus.com",
+        "discord.media",
+        "airhornbot.com",
+        "hammerandchisel.ssl.zendesk.com",
+        "discordcdn.com",
+        "bigbeans.solutions",
+        "discordmerch.com",
+        "dis.gd",
+        "discord.design",
+        "airhorn.solutions",
+        "discord.dev",
+        "discordapp.net",
+        "discord.co",
+        "discordactivities.com",
+        "discord-activities.com",
+        "discord.gifts",
+        "discord.store",
+        "discordapp.io",
+        "watchanimeattheoffice.com",
+        "discord.com",
+        "discord-attachments-uploads-prd.storage.googleapis.com",
+        "discord.tools",
+        "discordsays.com",
+        "discord.new"
+      ]
+    }
+  ],
+  "version": 2
+}
