@@ -1,0 +1,18 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "kk.stream",
+        "kkbox.com",
+        "kkbox-prime.com",
+        "kkbox.com.tw",
+        "theater-kktv.cdn.hinet.net",
+        "kktv.com.tw",
+        "kktv.me",
+        "kfs.io",
+        "kktix.com"
+      ]
+    }
+  ],
+  "version": 2
+}
