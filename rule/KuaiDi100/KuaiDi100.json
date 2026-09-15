@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ckd.im",
+        "baidinet.com",
+        "kd100.com",
+        "kuaidi100.com",
+        "baidiapp.com",
+        "kuaidilab.com"
+      ]
+    }
+  ],
+  "version": 2
+}

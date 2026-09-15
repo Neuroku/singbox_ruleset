@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "didiyunapi.com",
+        "didialift.com",
+        "udache.com",
+        "didiglobal.com",
+        "didiwuxian.com",
+        "apptaxi.com.cn",
+        "cxyule.com",
+        "diditaxi.com.cn",
+        "didiopenapi.com",
+        "didiqiche.com",
+        "xiaojuchefu.cn",
+        "didiapp.net.cn",
+        "didimobility.co.jp",
+        "diditaxi.com",
+        "xiaojukeji.com",
+        "didiaustralia.blog",
+        "didiyun.com",
+        "didi.xin",
+        "didi-food.com",
+        "didimobility.com",
+        "didiyun.org",
+        "juyanwenjuan.com",
+        "didi.cn",
+        "didistatic.com",
+        "didichuxing.com"
+      ]
+    }
+  ],
+  "version": 2
+}
