@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "licdn.cn.cdn20.com",
+        "linkedin.sc.omtrdc.net",
+        "e122475.dscg.akamaiedge.net"
+      ],
+      "domain_suffix": [
+        "linkedin.com",
+        "lnkd.in",
+        "l-0005.dc-msedge.net",
+        "licdn.com",
+        "linkedin.cn",
+        "bizographics.com",
+        "licdn.cn",
+        "l-0005.l-msedge.net",
+        "linkedin.at"
+      ]
+    }
+  ],
+  "version": 2
+}

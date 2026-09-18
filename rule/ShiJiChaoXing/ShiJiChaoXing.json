@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "superlib.com",
+        "ssreader.com.cn",
+        "mndqlib.net",
+        "5read.com",
+        "sslawy.com",
+        "nihaorwanda.cn",
+        "cxbiji.com",
+        "chaoxing.com",
+        "xuexi365.net",
+        "uonline-sh.net",
+        "sslibrary.com",
+        "study360.com.cn",
+        "xxtmail.com",
+        "zaifan.com.cn",
+        "lnlib.net",
+        "aichaoxing.com",
+        "nihaoafrica.org",
+        "ssvideo.com.cn",
+        "xuexi365.com.cn",
+        "zhihang100.com",
+        "ssreader.cn",
+        "uonline-sh.com",
+        "chaoxingv.com",
+        "ylike.net",
+        "chaoxing.cc",
+        "zaifan.com",
+        "16q.cn",
+        "jikeiot.cloud",
+        "ssvideo.cn",
+        "hongbo100.com",
+        "superlib.net",
+        "mti100.com",
+        "xuexi365.com"
+      ]
+    }
+  ],
+  "version": 2
+}

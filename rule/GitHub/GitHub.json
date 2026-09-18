@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "github"
+      ],
+      "domain_suffix": [
+        "github.io",
+        "github-avatars.oss-cn-hongkong.aliyuncs.com",
+        "dependabot.com",
+        "githubuniverse.com",
+        "githubhackathon.com",
+        "githubcopilot.com",
+        "thegithubshop.com",
+        "githubassets.com",
+        "repo.new",
+        "myoctocat.com",
+        "githubpreview.dev",
+        "github-atom-io-herokuapp-com.freetls.fastly.net",
+        "ghcr.io",
+        "github.blog",
+        "github.com",
+        "npm.community",
+        "npmjs.org",
+        "opensource.guide",
+        "github.community",
+        "github.dev",
+        "githubstatus.com",
+        "github-cloud.s3.amazonaws.com",
+        "githubapp.com",
+        "atom.io",
+        "rawgithub.com",
+        "git.io",
+        "npmjs.com",
+        "githubusercontent.com",
+        "githubnext.com",
+        "rawgit.com"
+      ]
+    }
+  ],
+  "version": 2
+}
