@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "moji.com",
+        "mojicb.com",
+        "mojichina.com",
+        "xiaomo.cn",
+        "moweather.com",
+        "mojitest.com",
+        "airnut.com"
+      ]
+    }
+  ],
+  "version": 2
+}

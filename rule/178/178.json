@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "stargame.com",
+        "psnine.com",
+        "766.com",
+        "nga.wiki",
+        "766app.com",
+        "dospy.com",
+        "carry6.cn",
+        "178.net",
+        "tgbus.com",
+        "carry6.com",
+        "a9vg.com",
+        "bjyueshenzj.com",
+        "xyous.com",
+        "tgbusdata.cn",
+        "178.com",
+        "766test.com",
+        "carry6.net",
+        "ngabbs.com",
+        "bigccq.cn",
+        "nga.cn",
+        "766er.com",
+        "ngacn.cc"
+      ]
+    }
+  ],
+  "version": 2
+}

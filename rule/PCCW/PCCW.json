@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hktpremier.com",
+        "pccwsolutions.com",
+        "dfp6rglgjqszk.cloudfront.net",
+        "hkteducation.com",
+        "uhub.com",
+        "moov.hk",
+        "now-ashare.com",
+        "1010.com.hk",
+        "netvigator.com",
+        "hkt-eye.com",
+        "nowe.hk",
+        "now.com.hk",
+        "theclub.com.hk",
+        "pccwglobal.com",
+        "d1k2us671qcoau.cloudfront.net",
+        "hktshop.com",
+        "nowe.com",
+        "hkt.com",
+        "now-tv.com",
+        "now.com",
+        "hkcsl.com",
+        "hkt-enterprise.com",
+        "viu.com",
+        "esmarthealth.com",
+        "pccw.com"
+      ]
+    }
+  ],
+  "version": 2
+}
