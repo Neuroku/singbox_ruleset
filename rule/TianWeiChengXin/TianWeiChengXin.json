@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "itrusign.cn",
+        "fxg365.cn",
+        "nowhttps.com",
+        "mingjian365.net",
+        "itrus.com",
+        "mj365.site",
+        "mj365.club",
+        "itrus.net.cn",
+        "itruscloud.com",
+        "6rencn.com",
+        "itrus.cn",
+        "yunssl.cn",
+        "helloid.cn",
+        "ev-ssl.com.cn",
+        "4006663999.cn",
+        "yunssl.com",
+        "mj365.vip",
+        "itrus.com.cn",
+        "mingjian365.cn",
+        "mingjian365.com",
+        "ev-ssl.cn",
+        "dcocsp.cn",
+        "itrusign.com"
+      ]
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "aiwei365.net.cn",
+        "jovision.cn",
+        "jovision.com",
+        "cloudseetech.com",
+        "cloudsee.net",
+        "nvsip.com",
+        "jovetech.cn",
+        "cloudsee.com",
+        "jovcloud.com",
+        "sunywo.com",
+        "jovisionai.com",
+        "jovmall.com",
+        "jovetech.com",
+        "xunvision.com",
+        "afdvr.cc",
+        "aiwei365.com.cn",
+        "soovvi.com"
+      ]
+    }
+  ],
+  "version": 2
+}
