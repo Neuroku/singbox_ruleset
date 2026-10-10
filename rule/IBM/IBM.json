@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ibm",
+        "s-bluemix.net",
+        "weather.com",
+        "weatherchannel",
+        "ibm.us",
+        "appdomain.cloud",
+        "s81c.com",
+        "bluemix.net",
+        "ibm.eu",
+        "ibm.com",
+        "ibm.net",
+        "bluemix.com"
+      ]
+    }
+  ],
+  "version": 2
+}
