@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "mailhealth.com",
+        "thismon.ee",
+        "mailonsunday.ie",
+        "mol.im",
+        "dailymail.co.uk",
+        "dailymailonline.com",
+        "dailymail.dk",
+        "mailonline.com",
+        "anm.co.uk",
+        "mailonsunday.co.uk",
+        "dailymail.com.au",
+        "metro.co.uk",
+        "mailonline.co.uk",
+        "dailym.ai",
+        "dailymail.com",
+        "dmgmediaprivacy.co.uk",
+        "thisismoney.co.uk"
+      ]
+    }
+  ],
+  "version": 2
+}
