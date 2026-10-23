@@ -1,0 +1,64 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "self.events.data.microsoft.com",
+        "r.bing.com",
+        "api.statsig.com",
+        "api.msn.com",
+        "in.appcenter.ms",
+        "openai-api.arkoselabs.com",
+        "sydney.bing.com",
+        "browser-intake-datadoghq.com",
+        "static.cloudflareinsights.com",
+        "odc.officeapps.live.com",
+        "production-openaicom-storage.azureedge.net",
+        "chat.openai.com.cdn.cloudflare.net",
+        "services.bingapis.com",
+        "www.bing.com",
+        "openaicomproductionae4b.blob.core.windows.net",
+        "location.microsoft.com",
+        "gateway.bingviz.microsoftapp.net",
+        "assets.msn.com",
+        "copilot.microsoft.com",
+        "gateway.bingviz.microsoft.net"
+      ],
+      "domain_keyword": [
+        "openaicom-api"
+      ],
+      "domain_suffix": [
+        "client-api.arkoselabs.com",
+        "chatgpt.livekit.cloud",
+        "intercom.io",
+        "launchdarkly.com",
+        "turn.livekit.cloud",
+        "stripe.com",
+        "api.microsoftapp.net",
+        "observeit.net",
+        "segment.io",
+        "sentry.io",
+        "openai.com",
+        "edgeservices.bing.com",
+        "chatgpt.com",
+        "events.statsigapi.net",
+        "bing-shopping.microsoft-falcon.io",
+        "identrust.com",
+        "auth0.com",
+        "featuregates.org",
+        "host.livekit.cloud",
+        "algolia.net",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openaicom.imgix.net",
+        "openaiapi-site.azureedge.net",
+        "intercomcdn.com",
+        "challenges.cloudflare.com"
+      ],
+      "ip_cidr": [
+        "24.199.123.28/32",
+        "64.23.132.171/32"
+      ]
+    }
+  ],
+  "version": 2
+}
