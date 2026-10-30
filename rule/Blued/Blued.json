@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "irisgw.cn",
+        "irisdt.net",
+        "fleeper.com",
+        "danlanlove.com",
+        "bf99.com",
+        "blued.gw-dv.net",
+        "blued.com",
+        "xiaogegelive.cn",
+        "bluedimg.com",
+        "bluedimg.cn",
+        "bldimg.com",
+        "yijian-app.com",
+        "xiaolanapp.com",
+        "blued.cdn-gw-dv.net",
+        "caihongqi.com",
+        "blue-city.com",
+        "irisgw.com",
+        "danlan.org",
+        "irisgw.net",
+        "bluedgames.com",
+        "xiaogegelive.com",
+        "danlancare.cn",
+        "yijian-app.cn",
+        "budimg.cn",
+        "blued.cn",
+        "irisdt.com",
+        "irisdt.cn",
+        "danlanlove.cn",
+        "ourbluecity.com",
+        "bldlive.com",
+        "bluedgames.cn",
+        "danlancare.com",
+        "ourbluecity.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
