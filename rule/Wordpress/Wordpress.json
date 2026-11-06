@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "videopress.com",
+        "wpvip.com",
+        "wordpress.org",
+        "w.org",
+        "wordpress.com",
+        "wp.com",
+        "wordpress.tv",
+        "wp-themes.com"
+      ]
+    }
+  ],
+  "version": 2
+}

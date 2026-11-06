@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "jikeiot.cloud",
+        "xuexi365.com.cn",
+        "lnlib.net",
+        "uonline-sh.net",
+        "zaifan.com",
+        "16q.cn",
+        "superlib.net",
+        "aichaoxing.com",
+        "cxbiji.com",
+        "sslawy.com",
+        "xxtmail.com",
+        "study360.com.cn",
+        "zhihang100.com",
+        "nihaorwanda.cn",
+        "zaifan.com.cn",
+        "ssvideo.com.cn",
+        "ylike.net",
+        "hongbo100.com",
+        "ssreader.com.cn",
+        "chaoxing.com",
+        "chaoxingv.com",
+        "ssvideo.cn",
+        "xuexi365.com",
+        "ssreader.cn",
+        "mti100.com",
+        "5read.com",
+        "mndqlib.net",
+        "uonline-sh.com",
+        "xuexi365.net",
+        "chaoxing.cc",
+        "superlib.com",
+        "sslibrary.com",
+        "nihaoafrica.org"
+      ]
+    }
+  ],
+  "version": 2
+}

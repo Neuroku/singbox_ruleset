@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "india.com",
+        "zeenews.com",
+        "zeeentertainment.com",
+        "zeebiz.com",
+        "bollywoodlife.com",
+        "cricketcountry.com",
+        "earngeek.com",
+        "prepsure.com",
+        "ind.sh",
+        "careerfundas.com",
+        "yo1health.com",
+        "wionews.com",
+        "thehealthsite.com",
+        "itripto.com",
+        "dnai.in",
+        "ekhindi.com",
+        "zee.com",
+        "bgr.in",
+        "indiancolleges.com",
+        "dnaindia.com",
+        "zeenews-fonts.s3.amazonaws.com",
+        "oncars.in"
+      ]
+    }
+  ],
+  "version": 2
+}
