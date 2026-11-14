@@ -1,0 +1,46 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "ucloudgda.com",
+        "ucloudapi.com",
+        "ucgslb.top",
+        "ecloud-gdu.com",
+        "fshark.cn",
+        "ugslb.cn",
+        "ugslb.info",
+        "ucgslb.net",
+        "ucloudstack.cn",
+        "uclouduewaf.com",
+        "ugslb.top",
+        "ucloudstack.net",
+        "ucgslb.com",
+        "ucloudufile.com",
+        "u-cdn.com",
+        "ucloudstack.com",
+        "ipbaohe.com",
+        "ipssh.net",
+        "ucloudoss.com",
+        "ugslb.com",
+        "uewaf.com",
+        "uhasadmin.com",
+        "ugslb.net",
+        "ucloudadmin.com",
+        "cdndo.com",
+        "ibusre.cn",
+        "urtc.com.cn",
+        "ucloud.com.cn",
+        "unaming.net",
+        "u-cdn.net",
+        "ucloud.cn",
+        "ucloud365.com",
+        "ucgslb.info",
+        "ucgslb.cn",
+        "ufileos.com",
+        "ugslb2.net",
+        "urome.cn"
+      ]
+    }
+  ],
+  "version": 2
+}
