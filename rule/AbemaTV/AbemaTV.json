@@ -1,0 +1,34 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "abematv.akamaized.net"
+      ],
+      "domain_suffix": [
+        "amebame.com",
+        "winticket.jp",
+        "d2wy8f7a9ursnm.cloudfront.net",
+        "d1otoma47x30pg.cloudfront.net",
+        "ameba.jp",
+        "bucketeer.jp",
+        "amebaownd.com",
+        "vod-abematv.akamaized.net",
+        "ameblo.jp",
+        "abema.tv",
+        "abema-tv.com",
+        "abema.io",
+        "linear-abematv.akamaized.net",
+        "adx.promo",
+        "hayabusa.dev",
+        "hayabusa.media",
+        "abematv.akamaized.net",
+        "amebaowndme.com",
+        "ds-linear-abematv.akamaized.net",
+        "dokusho-ojikan.jp",
+        "hayabusa.io",
+        "ds-vod-abematv.akamaized.net"
+      ]
+    }
+  ],
+  "version": 2
+}
